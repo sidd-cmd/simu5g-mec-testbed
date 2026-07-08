@@ -203,18 +203,10 @@ chmod +x *.sh
 - Persist your environment via `~/.bashrc` and wrap common run commands in shell scripts so simulations "just work" after a reboot.
 
 ---
-
-## 📂 Suggested Repo Structure
+## Working Demo
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/2288e624-c7ff-4642-9443-3e03a08b5fb8" />
 
 ```
-.
-├── README.md                  # this file
-├── setup_env.sh               # optional: exports env vars, can be `source`d
-├── run_5g_standalone.sh
-├── run_lte_demo.sh
-└── run_mec_single_host.sh     # featured MEC scenario
-```
-
 ---
 
 ## 📝 License / Credit
